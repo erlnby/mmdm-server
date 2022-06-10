@@ -1,0 +1,6 @@
+fastapi[all]
+numpy
+sympy
+scipy
+jupyter
+nashpy
